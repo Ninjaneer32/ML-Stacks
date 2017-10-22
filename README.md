@@ -192,7 +192,9 @@ http://www.hadoop360.datasciencecentral.com/blog/cloud-machine-learning-platform
 
 #### Open Source
 
-Apache Spark, MLLib with Python / R / Scala
+Apache Spark / Apache Flink, MLLib with Python / R / Scala, Python ML Libraries, Tensorflow (& other Deep Learning Libraries)
+
+See Apache Spark vs Apache Flink here: https://www.dezyre.com/article/apache-flink-vs-spark-will-one-overtake-the-other/282
 
 #### Fujitsu
 
