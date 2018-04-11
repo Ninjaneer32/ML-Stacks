@@ -192,8 +192,9 @@ http://www.hadoop360.datasciencecentral.com/blog/cloud-machine-learning-platform
 
 #### Open Source
 
-Apache Spark / Apache Flink, MLLib with Python / R / Scala, Python ML Libraries, Tensorflow (& other Deep Learning Libraries)
+Apache Spark / Apache Flink, MLLib with Python / R / Scala, Python ML Libraries, Tensorflow (& other Deep Learning Libraries), AIRI
 
+AIRI: NVIDIA GPI Compute with Flash memory for high performance. Details here
 See Apache Spark vs Apache Flink here: https://www.dezyre.com/article/apache-flink-vs-spark-will-one-overtake-the-other/282
 
 #### Fujitsu
@@ -202,7 +203,15 @@ Fujitsu AI Solution Zinrai Deep Learning System
 
 http://www.fujitsu.com/global/about/resources/news/press-releases/2017/0516-04.html
 
+#### KNIME
+https://www.knime.com/software
+Provides the fully open-source KNIME Analytics Platform. It offers highly rated data
+access and manipulation capabilities, a breadth of algorithms, and a comprehensive machine-learning toolbox suitable for both beginners and expert data scientists. KNIME's platform integrates with other tools and platforms, such as R, Python, Spark, H2O.ai, Weka, DL4J and Keras. 
+Limitation: A KNIME Server deployment is currently limited to a single host. 
 
+#### H2O
+offers an open-source machine-learning platform.
+H2O Flow: its core component; H2O Steam; H2O Sparkling Water: Spark integration; and H2O Deep Water: deep-learning capabilities.
 
 ### Nvidia vs AMD GPU
 
